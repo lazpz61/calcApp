@@ -2,7 +2,7 @@ Welcome to my Calculator Application
 
 Calculator Application Description:
 
-This repor primarily serves as a refrsher for some of the basic principles for my knowledge retention and to revisit some of the earlier foundational concepts. It is also as part of a personal goal of mine to get back into the groove of coding, after being away from it after some time since May after graduating with my Masters from Boston University and primarly coding in JAVA. 
+This repo primarily serves as a refresher for some of the basic principles for my knowledge retention and to revisit some of the earlier foundational concepts. It is also a part of a personal goal of mine to get back into the groove of coding, after being away from it after 3 months since May after graduating with my Masters in Software Development from Boston University. I was primarly coding in JAVA.  
 
 
 Changes I Made that were not on the tutorial: 
