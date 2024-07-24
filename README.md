@@ -1,3 +1,5 @@
+Welcome to my Calculator Application
+
 Calculator Application Description:
 
 This repor primarily serves as a refrsher for some of the basic principles for my knowledge retention and to revisit some of the earlier foundational concepts. It is also as part of a personal goal of mine to get back into the groove of coding, after being away from it after some time since May after graduating with my Masters from Boston University and primarly coding in JAVA. 
